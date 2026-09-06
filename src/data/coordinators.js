@@ -49,15 +49,15 @@ export const studentCoordinators = [
     image: images.coordinators.students.reverie.vikram,
   },
   {
-    id: "pushpendra",
+    id: "Abhinandan",
     club: "merveilleux",
     clubName: "Merveilleux",
-    name: "Pushpendra",
+    name: "Abhinandan",
     role: "Student Coordinator",
-    phone: "9039740547",
-    phoneDisplay: "90397 40547",
-    email: "pushpendraj.ee.23@nitj.ac.in",
-    image: images.coordinators.students.merveilleux.pushpendra,
+    phone: "6280493065",
+    phoneDisplay: "62804 93065",
+    email: "abhinandanum.bt.23@nitj.ac.in",
+    image: images.coordinators.students.merveilleux.abhinandan,
   },
 ];
 

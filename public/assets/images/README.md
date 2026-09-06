@@ -54,7 +54,7 @@ Compress before uploading (squoosh.app is free):
 | `faculty-shefali-arora-chouhan.jpg`               | Dr. Shefali Arora Chouhan. |
 | `faculty-manjeet-singh.jpg`                       | Dr. Manjeet Singh. |
 | `reverie-student-coordinator-vikram-singh.jpg`    | Vikram Singh. |
-| `merveilleux-student-coordinator-pushpendra.jpg`  | Pushpendra. |
+| `merveilleux-student-coordinator-pushpendra.jpg`  | Abhinandan. |
 
 ### Events — used in the calendar row and the pop-up
 

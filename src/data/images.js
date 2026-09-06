@@ -38,7 +38,7 @@ export const images = {
     },
     students: {
       reverie: { vikram: asset("reverie-student-coordinator-vikram-singh.jpg") },
-      merveilleux: { pushpendra: asset("merveilleux-student-coordinator-pushpendra.jpg") },
+      merveilleux: { abhinandan: asset("merveilleux-student-coordinator-abhinandan.jpg") },
     },
   },
 
